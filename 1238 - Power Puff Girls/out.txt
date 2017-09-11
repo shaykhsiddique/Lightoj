@@ -1,0 +1,6 @@
+Case 1: 13
+Case 2: 128
+Case 3: 27
+Case 4: 15
+Case 5: 17
+Case 6: 18

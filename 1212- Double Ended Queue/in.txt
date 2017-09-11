@@ -1,0 +1,11 @@
+3
+2 2
+pushLeft 2
+pushRight 1
+2 3
+popLeft
+popRight
+pushLeft 3
+2 2
+popLeft
+pushLeft 5
